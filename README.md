@@ -4,14 +4,10 @@ This workspace contains Jupyter notebooks and sample CSV files for learning basi
 
 ## What this project contains
 
-- `xyz.ipynb` – Examples of NumPy arrays, array properties, indexing, boolean masking, normalization, and basic pandas operations.
-- `datahandling.ipynb` – Additional notebook for exploring data handling concepts.
-- `datahandlinf.ipynb` – Another notebook file in the workspace.
+- `code.ipynb` – Examples of NumPy arrays, array properties, indexing, boolean masking, normalization, and basic pandas operations.
 - Sample datasets:
   - `tips.csv`
   - `banklist.csv`
-  - `car-sales-extended-missing-data.csv`
-  - `missing_data.csv`
 
 ## Topics covered
 
